@@ -3,3 +3,8 @@
     justify-content: center;
     margin-top: 50px;
 }
+@media (max-width:420px) {
+    .quora_content{
+        width: 100%;
+    }
+}

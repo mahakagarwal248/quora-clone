@@ -201,3 +201,13 @@
 .login__footer > p:hover {
   text-decoration: underline;
 }
+@media (max-width:420px) {
+  .login{
+    background-size: cover;
+    width: fit-content;
+    padding-left: 150px;
+    padding-right: 150px;
+    min-height: 100%;
+    background-position: center center;
+  }
+}
